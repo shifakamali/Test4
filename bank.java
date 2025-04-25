@@ -8,7 +8,7 @@ public class bank {
 	public static void main(String args[]) //main class of bank
 		throws IOException
 	{
-
+//bufferedreader to take input from user
 		BufferedReader sc = new BufferedReader(
 			new InputStreamReader(System.in));
 		String name = "";
